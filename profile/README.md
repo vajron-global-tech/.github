@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/VAJRON logo.jpeg" alt="VAJRON Logo" width="220">
+</p>
+
 # VAJRON Global Tech Pvt. Ltd.
 
 ### Engineering the Future of Autonomous Technologies
