@@ -1,70 +1,81 @@
 # VAJRON Global Tech Pvt. Ltd.
 
-
-
-<h3 align="center">
-Engineering the Future of Autonomous Technologies
-</h3>
+### Engineering the Future of Autonomous Technologies
 
 ---
 
 ## About Us
 
-VAJRON Global Tech Pvt. Ltd. is an Indian technology company focused on the research, development, and deployment of advanced autonomous systems and intelligent technologies.
+VAJRON Global Tech Pvt. Ltd. is an Indian technology company dedicated to the research, development, and deployment of advanced autonomous systems, intelligent robotics, artificial intelligence, and next-generation engineering solutions.
 
-Our primary areas of work include:
-
-- 🚁 UAVs & Drone Technologies
-- 🤖 Robotics & Autonomous Systems
-- 🧠 Artificial Intelligence
-- 🛰️ Defence Technologies
-- 📡 Embedded Systems
-- ⚡ Industrial Automation
-- 🌍 Intelligent Surveillance Systems
+Our objective is to design reliable, scalable, and innovative technologies for industrial, commercial, and defence applications while contributing to India's technological advancement.
 
 ---
 
-## Our Vision
+## Core Areas of Expertise
 
-To build world-class technologies that contribute to the future of autonomous mobility, intelligent robotics, and national technological advancement.
+- UAVs & Drone Technologies
+- Robotics & Autonomous Systems
+- Artificial Intelligence
+- Computer Vision
+- Embedded Systems
+- Industrial Automation
+- Defence Technologies
+- Intelligent Surveillance Systems
+- Edge Computing
+- Sensor Fusion
 
 ---
 
-## Our Mission
+## Vision
 
-- Develop reliable autonomous platforms.
-- Advance AI-powered robotic systems.
-- Build innovative solutions for industrial and defence applications.
-- Promote indigenous technology development.
+To become a globally recognized technology company developing cutting-edge autonomous systems that redefine the future of robotics, aerial intelligence, and smart engineering.
+
+---
+
+## Mission
+
+- Develop advanced autonomous technologies.
+- Build intelligent robotic platforms.
+- Advance AI-powered engineering solutions.
+- Deliver reliable technologies for industrial and defence sectors.
+- Promote indigenous innovation through research and engineering excellence.
 
 ---
 
 ## Technologies
 
 - Artificial Intelligence
-- Computer Vision
+- Machine Learning
 - Deep Learning
-- ROS / ROS2
+- Computer Vision
+- ROS / ROS 2
 - PX4 Autopilot
+- MAVLink
 - Embedded Electronics
-- Sensor Fusion
-- SLAM
-- Edge Computing
+- Edge AI
 - UAV Navigation
-
----
-
-## Website
-
-🌐 https://vajronglobaltech.com
+- SLAM
+- Sensor Fusion
+- Autonomous Navigation
+- Linux
+- Python
+- C++
+- NVIDIA Jetson
+- Raspberry Pi
 
 ---
 
 ## Contact
 
-📧 info@vajronglobaltech.com
+**Website**  
+https://vajronglobaltech.com
+
+**Email**  
+info@vajronglobaltech.com
 
 ---
 
 © 2026 VAJRON Global Tech Pvt. Ltd.
+
 All Rights Reserved.
